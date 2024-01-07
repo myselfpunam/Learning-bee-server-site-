@@ -1,0 +1,103 @@
+[
+  {
+    "id": "01",
+    "name": "Spoken English For Kids",
+    "img" : "https://amadereshkul.s3-ap-southeast-1.amazonaws.com/4394ac/ea707877-449a-47e9-a69f-ce9817097bfe/lms/167050750110245315756391ebed88f6d.jpeg",
+    "p":"Learning spoken English can be super fun for kids! Through engaging activities, stories, and games, children can explore this fascinating language in an enjoyable way. By practicing simple phrases, playing interactive language games, and listening to stories, kids can enhance their speaking skills and grow more confident in expressing themselves in English. Encouraging them to speak with enthusiasm and providing a supportive environment can make learning English an exciting adventure for the little ones!",
+    "price" : "5000",
+    "rating": "4.2",
+    "video" :"20",
+    "duration" : "10",
+    "pdf" : "20",
+    "class":"Yes",
+    "author":"https://stylesatlife.com/wp-content/uploads/2018/03/Good-Boy.jpg",
+    "degree":"Master's in English",
+    "uv": "DU",
+    "authon_name":"Akbar Ali"
+  },
+  {
+    "id": "02",
+    "name": "Spoken English",
+    "img" : "https://worldimmigrationpvtltd.com/wp-content/uploads/2023/01/Spoken-english-Sandeep-malik.jpg",
+    "p":"Mastering spoken English opens up a world of opportunities. It's more than just words; it's about connecting with others, expressing thoughts, and sharing stories. Practicing speaking regularly, whether through conversations, presentations, or even by simply talking to oneself, helps in gaining fluency and confidence. Listening keenly to various accents and styles enriches understanding, while mimicking and practicing pronunciation refines speaking abilities. Embracing English as a living, evolving language makes the journey of learning spoken English an exciting and rewarding experience.",
+    "price" : "6000",
+    "rating": "4.7",
+    "video" :"40",
+    "duration" : "20",
+    "pdf" : "40",
+    "class":"No",
+    "author":"https://images.squarespace-cdn.com/content/v1/5d6aacb29e0b8f0001610a06/1696903638201-WWXSFZYD87UQ8J0EGQM4/shutterstock_759361057.jpg?format=1000w",
+    "degree":"Master's in English",
+    "uv": "DU",
+    "authon_name":"Nasrin Akter"
+    
+  },
+  {
+    "id": "03",
+    "name": "IELTS",
+    "img" : "https://i0.wp.com/pecpte.com/wp-content/uploads/2020/08/IELTS-Coaching-in-Dhaka-Bangladesh.jpg?fit=640%2C564&ssl=1",
+    "p":"Embarking on an IELTS course can be a transformative journey for individuals aiming to excel in their English language proficiency. Tailored to the specific requirements of the International English Language Testing System (IELTS), this course equips candidates with comprehensive strategies, practice materials, and guidance needed to ace the test. ",
+    "price" : "10000",
+    "rating": "4.4",
+    "video" :"50",
+    "duration" : "30",
+    "pdf" : "100",
+    "class":"Yes",
+    "author":"https://media.istockphoto.com/id/994538580/photo/handsome-tall-arabian-beard-man-model.jpg?s=170667a&w=0&k=20&c=qlR30-UDKYGiITEfvadQf9H5zVBvH8nXvNSMB2ISEgs=",
+    "degree":"Master's in English",
+    "uv": "Oxford University",
+    "authon_name":"Samsul Alam"
+  },
+  
+  {
+    "id": "04",
+    "name": "Digital Marketing",
+    "img" : "https://www.edubridgeindia.com/blog/storage/2023/07/What-is-Digital-Marketing-768x512.jpg",
+    "p" : "Digital marketing is the heartbeat of modern business promotion. It utilizes online channels like social media, SEO, and content to connect with audiences, drive sales, and build brand presence. By leveraging data-driven insights, it allows for precise targeting and real-time strategy adjustments. In today's digital era, it's the cornerstone for businesses aiming to succeed and resonate with their customers online.",
+    "price" : "7000",
+    "rating": "4.0",
+    "video" :"20",
+    "duration" : "10",
+    "pdf" : "20",
+    "class":"Yes",
+    "author":"https://www.lovepanky.com/wp-content/uploads/2017/12/Flirty-Things-to-Say-to-a-Girl-1.jpg",
+    "degree":"Master's in Accounting",
+    "uv": "CU",
+    "authon_name":"Popy Akter"
+  },
+  {
+    "id": "05",
+    "name": "Affliate Marketing",
+    "img" : "https://media.licdn.com/dms/image/D4D12AQFQUT54sy5_Kg/article-cover_image-shrink_720_1280/0/1676071726286?e=2147483647&v=beta&t=jHgqwvv-swDdPZp0uD012IDfUlezlHFsEXuMrisNox8",
+    "p" : "Affiliate marketing is a partnership where individuals promote products or services for companies and earn a commission for sales or referrals. It's a win-win: businesses gain exposure, while affiliates earn through their online platforms by driving traffic and sales.",
+    "price" : "9000",
+    "rating": "5.0",
+    "video" :"20",
+    "duration" : "10",
+    "pdf" : "20",
+    "class":"Yes",
+    "author":"https://stylesatlife.com/wp-content/uploads/2018/03/Good-Boy.jpg",
+    "degree":"Master's in Marketing",
+    "uv": "DU",
+    "authon_name":"Zillur Rahman"
+    
+  },
+  {
+    "id": "06",
+    "name": "SEO",
+    "img" : "https://www.lawnandlandscape.com/fileuploads/publications/1/issues/103620/articles/images/SEO_MAIN_IMAGE_fmt.png",
+    "p" : "SEO, or Search Engine Optimization, is the art and science of enhancing a website's visibility and ranking on search engine results pages. It involves various strategies like keyword optimization, content creation, and technical enhancements aimed at improving.",
+    "price" : "8000",
+    "rating": "5.0",
+    "video" :"20",
+    "duration" : "10",
+    "pdf" : "20",
+    "class":"Yes",
+    "author":"https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+    "degree":"Master's in Marketing",
+    "uv": "CU",
+    "authon_name":"Habibur Rahman"
+    
+  }
+  
+]
